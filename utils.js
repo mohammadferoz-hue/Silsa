@@ -17,8 +17,8 @@ async function loadEduTubeData() {
 
   try {
     const [catRes, courseRes] = await Promise.all([
-      fetch(`${base}data/categories.json`),
-      fetch(`${base}data/courses.json`),
+      fetch(`${base}/categories.json`),
+      fetch(`${base}/courses.json`),
     ]);
 
     if (!catRes.ok || !courseRes.ok) {
