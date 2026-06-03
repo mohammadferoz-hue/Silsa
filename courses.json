@@ -1,0 +1,331 @@
+[
+  {
+    "id": "python-beginners",
+    "title": "Python for Beginners",
+    "description": "Start programming with Python — variables, loops, functions, and small projects using free, high-quality YouTube lessons.",
+    "category": "programming",
+    "level": "Beginner",
+    "instructor": "freeCodeCamp.org",
+    "featured": true,
+    "lessons": [
+      {
+        "id": "py-1",
+        "title": "Python for Beginners – Full Course",
+        "videoId": "kqtD5dpn9C8",
+        "duration": "4h 40m"
+      },
+      {
+        "id": "py-2",
+        "title": "Python Variables and Data Types",
+        "videoId": "cQT33yu9pY8",
+        "duration": "12m"
+      },
+      {
+        "id": "py-3",
+        "title": "Python Functions Explained",
+        "videoId": "9Os0w3loE3k",
+        "duration": "15m"
+      }
+    ]
+  },
+  {
+    "id": "javascript-fundamentals",
+    "title": "JavaScript Fundamentals",
+    "description": "Master the language of the web — syntax, DOM, events, and modern ES6 features.",
+    "category": "programming",
+    "level": "Beginner",
+    "instructor": "Programming with Mosh",
+    "featured": true,
+    "lessons": [
+      {
+        "id": "js-1",
+        "title": "JavaScript Tutorial for Beginners",
+        "videoId": "W6NZfH5Ge1o",
+        "duration": "48m"
+      },
+      {
+        "id": "js-2",
+        "title": "JavaScript DOM Manipulation",
+        "videoId": "5fbEHyA-tsg",
+        "duration": "22m"
+      },
+      {
+        "id": "js-3",
+        "title": "Async JavaScript – Promises & Async/Await",
+        "videoId": "PoRJizFvM7s",
+        "duration": "18m"
+      }
+    ]
+  },
+  {
+    "id": "react-crash",
+    "title": "React.js Crash Course",
+    "description": "Build interactive UIs with components, hooks, and state management.",
+    "category": "programming",
+    "level": "Intermediate",
+    "instructor": "Traversy Media",
+    "featured": false,
+    "lessons": [
+      {
+        "id": "react-1",
+        "title": "React JS Crash Course",
+        "videoId": "w7ejDZ8SWv8",
+        "duration": "1h 48m"
+      },
+      {
+        "id": "react-2",
+        "title": "React Hooks Explained",
+        "videoId": "TNhaISOUy6Q",
+        "duration": "28m"
+      }
+    ]
+  },
+  {
+    "id": "algebra-basics",
+    "title": "Algebra Basics",
+    "description": "Equations, expressions, and graphs explained step by step.",
+    "category": "mathematics",
+    "level": "Beginner",
+    "instructor": "Khan Academy",
+    "featured": true,
+    "lessons": [
+      {
+        "id": "alg-1",
+        "title": "Introduction to Algebra",
+        "videoId": "NybHckSEQBI",
+        "duration": "12m"
+      },
+      {
+        "id": "alg-2",
+        "title": "Linear Equations and Graphs",
+        "videoId": "IL3UCuXuwk8",
+        "duration": "14m"
+      },
+      {
+        "id": "alg-3",
+        "title": "Systems of Equations",
+        "videoId": "vA-55wZtLeE",
+        "duration": "16m"
+      }
+    ]
+  },
+  {
+    "id": "calculus-intro",
+    "title": "Introduction to Calculus",
+    "description": "Limits, derivatives, and the intuition behind change and motion.",
+    "category": "mathematics",
+    "level": "Intermediate",
+    "instructor": "3Blue1Brown",
+    "featured": false,
+    "lessons": [
+      {
+        "id": "calc-1",
+        "title": "The Essence of Calculus",
+        "videoId": "WUvTyddx68s",
+        "duration": "17m"
+      },
+      {
+        "id": "calc-2",
+        "title": "Derivatives – Geometric Intuition",
+        "videoId": "9vKqVkMWOK0",
+        "duration": "18m"
+      }
+    ]
+  },
+  {
+    "id": "physics-motion",
+    "title": "Physics: Motion & Forces",
+    "description": "Understand velocity, acceleration, and Newton's laws with visual explanations.",
+    "category": "science",
+    "level": "Beginner",
+    "instructor": "Crash Course",
+    "featured": true,
+    "lessons": [
+      {
+        "id": "phys-1",
+        "title": "Motion in One Dimension",
+        "videoId": "ZM8uFisdqh0",
+        "duration": "10m"
+      },
+      {
+        "id": "phys-2",
+        "title": "Newton's Laws of Motion",
+        "videoId": "kKKM8YGuK9Y",
+        "duration": "11m"
+      },
+      {
+        "id": "phys-3",
+        "title": "Work, Energy, and Power",
+        "videoId": "2WSysXwFgNY",
+        "duration": "12m"
+      }
+    ]
+  },
+  {
+    "id": "chemistry-basics",
+    "title": "Chemistry Fundamentals",
+    "description": "Atoms, molecules, and chemical reactions made accessible.",
+    "category": "science",
+    "level": "Beginner",
+    "instructor": "Crash Course",
+    "featured": false,
+    "lessons": [
+      {
+        "id": "chem-1",
+        "title": "The Periodic Table",
+        "videoId": "0RRVV4Diomg",
+        "duration": "11m"
+      },
+      {
+        "id": "chem-2",
+        "title": "Chemical Bonds",
+        "videoId": "QqjcCvzWwww",
+        "duration": "10m"
+      }
+    ]
+  },
+  {
+    "id": "english-grammar",
+    "title": "English Grammar Essentials",
+    "description": "Improve writing and speaking with clear grammar rules and examples.",
+    "category": "language",
+    "level": "Beginner",
+    "instructor": "English with Lucy",
+    "featured": false,
+    "lessons": [
+      {
+        "id": "eng-1",
+        "title": "English Grammar – Full Course",
+        "videoId": "Jp2xctH6sn8",
+        "duration": "3h 20m"
+      },
+      {
+        "id": "eng-2",
+        "title": "Common Grammar Mistakes",
+        "videoId": "YBKTRzeByJo",
+        "duration": "14m"
+      }
+    ]
+  },
+  {
+    "id": "spanish-beginners",
+    "title": "Spanish for Beginners",
+    "description": "Essential phrases, pronunciation, and everyday conversation skills.",
+    "category": "language",
+    "level": "Beginner",
+    "instructor": "Butterfly Spanish",
+    "featured": false,
+    "lessons": [
+      {
+        "id": "spa-1",
+        "title": "Learn Spanish in 30 Minutes",
+        "videoId": "qE-03EATjho",
+        "duration": "30m"
+      },
+      {
+        "id": "spa-2",
+        "title": "Spanish Verb Conjugation",
+        "videoId": "cN_ZqibQ0a4",
+        "duration": "18m"
+      }
+    ]
+  },
+  {
+    "id": "personal-finance",
+    "title": "Personal Finance 101",
+    "description": "Budgeting, saving, investing basics, and building financial literacy.",
+    "category": "business",
+    "level": "Beginner",
+    "instructor": "Two Cents (PBS)",
+    "featured": true,
+    "lessons": [
+      {
+        "id": "fin-1",
+        "title": "How to Budget",
+        "videoId": "GQOm8OWU3eI",
+        "duration": "8m"
+      },
+      {
+        "id": "fin-2",
+        "title": "Investing for Beginners",
+        "videoId": "lNdJH4uqvdY",
+        "duration": "10m"
+      },
+      {
+        "id": "fin-3",
+        "title": "Understanding Credit Scores",
+        "videoId": "p7HKvqRIzvo",
+        "duration": "7m"
+      }
+    ]
+  },
+  {
+    "id": "entrepreneurship",
+    "title": "Startup & Entrepreneurship",
+    "description": "Ideas, validation, pitching, and building a lean business.",
+    "category": "business",
+    "level": "Intermediate",
+    "instructor": "Y Combinator",
+    "featured": false,
+    "lessons": [
+      {
+        "id": "ent-1",
+        "title": "How to Start a Startup",
+        "videoId": "CBYhVcO4W2k",
+        "duration": "42m"
+      },
+      {
+        "id": "ent-2",
+        "title": "How to Get Startup Ideas",
+        "videoId": "Th8JoIan4OY",
+        "duration": "30m"
+      }
+    ]
+  },
+  {
+    "id": "ui-ux-design",
+    "title": "UI/UX Design Principles",
+    "description": "User research, wireframes, prototypes, and accessible interface design.",
+    "category": "design",
+    "level": "Beginner",
+    "instructor": "Flux Academy",
+    "featured": true,
+    "lessons": [
+      {
+        "id": "ux-1",
+        "title": "UI/UX Design – Full Course",
+        "videoId": "c9Wg6Cb9YRU",
+        "duration": "3h 10m"
+      },
+      {
+        "id": "ux-2",
+        "title": "Design Thinking Process",
+        "videoId": "SzZK9tXBPjs",
+        "duration": "12m"
+      }
+    ]
+  },
+  {
+    "id": "figma-basics",
+    "title": "Figma for Beginners",
+    "description": "Create professional designs and prototypes in Figma from scratch.",
+    "category": "design",
+    "level": "Beginner",
+    "instructor": "Bring Your Own Laptop",
+    "featured": false,
+    "lessons": [
+      {
+        "id": "fig-1",
+        "title": "Figma UI Design Tutorial",
+        "videoId": "FTFaQHT8gqE",
+        "duration": "2h 5m"
+      },
+      {
+        "id": "fig-2",
+        "title": "Auto Layout in Figma",
+        "videoId": "5JqW3nWTG2g",
+        "duration": "15m"
+      }
+    ]
+  }
+]

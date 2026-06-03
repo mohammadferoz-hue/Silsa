@@ -1,0 +1,38 @@
+[
+  {
+    "id": "programming",
+    "label": "Programming",
+    "icon": "💻",
+    "description": "Learn to code with hands-on video lessons."
+  },
+  {
+    "id": "mathematics",
+    "label": "Mathematics",
+    "icon": "📐",
+    "description": "Algebra, calculus, and problem-solving fundamentals."
+  },
+  {
+    "id": "science",
+    "label": "Science",
+    "icon": "🔬",
+    "description": "Physics, chemistry, biology, and how the world works."
+  },
+  {
+    "id": "language",
+    "label": "Languages",
+    "icon": "🌍",
+    "description": "Grammar, vocabulary, and communication skills."
+  },
+  {
+    "id": "business",
+    "label": "Business",
+    "icon": "📊",
+    "description": "Entrepreneurship, finance, and career skills."
+  },
+  {
+    "id": "design",
+    "label": "Design",
+    "icon": "🎨",
+    "description": "UI/UX, graphics, and creative tools."
+  }
+]
